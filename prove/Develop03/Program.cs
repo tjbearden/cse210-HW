@@ -1,6 +1,6 @@
 
 using System;
-
+// attempt at multiple choices of scriptures to memorize. 
 class Program
 {
     static void Main(string[] args)
